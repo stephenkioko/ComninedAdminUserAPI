@@ -1,0 +1,1 @@
+This is a sign up and login system which enables users to choose roles either admin or normal user during sign. The system returns a jsonify message after successful sign up and login which is tested using a test.py file. The system emphasized on creating an API knowledge in development of systems using python(FLASK).
